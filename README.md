@@ -4,7 +4,7 @@
 ## Apriori algorithm usage:
 
 ```python
-from apriopy import Apriopy
+from aprioripy import Aprioripy
 
 
 test_table = pd.DataFrame({
