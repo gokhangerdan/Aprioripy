@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="apriopy",
+    name="aprioripy",
     version="0.0.1",
     author="Gökhan Gerdan",
     author_email="gokhang1327@gmail.com",
     description="Apriori algorithm.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gokhangerdan/Apriopy",
+    url="https://github.com/gokhangerdan/Aprioripy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

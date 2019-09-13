@@ -1,4 +1,4 @@
-# Apriopy: Apriori algorithm.
+# Aprioripy: Apriori algorithm.
 <img src="4742c1dc-c672-4194-96c3-54ee5b88a840.jpeg">
 
 ## Apriori algorithm usage:
@@ -14,7 +14,7 @@ test_table = pd.DataFrame({
 print("Test table")
 print(test_table)
 
-ap = Apriopy(table=test_table)
+ap = Aprioripy(table=test_table)
 
 print("\nFrequency table:")
 print(ap.frequency_table)
@@ -37,7 +37,7 @@ test_table = pd.DataFrame(
 print("\nTest table:")
 print(test_table)
 
-ap = Apriori(table=test_table, convert=False)
+ap = Aprioripy(table=test_table, convert=False)
 
 print("\nFrequency table:")
 print(ap.frequency_table)

@@ -2,7 +2,7 @@ import pandas as pd
 import itertools
 
 
-class Apriopy:
+class Aprioripy:
     
     def __init__(self,
                  table,
@@ -88,7 +88,7 @@ def test():
     print("Test table")
     print(test_table)
 
-    ap = Apriopy(table=test_table)
+    ap = Aprioripy(table=test_table)
 
     print("\nFrequency table:")
     print(ap.frequency_table)
@@ -111,7 +111,7 @@ def test():
     print("\nTest table:")
     print(test_table)
 
-    ap = Apriopy(table=test_table, convert=False)
+    ap = Aprioripy(table=test_table, convert=False)
 
     print("\nFrequency table:")
     print(ap.frequency_table)
