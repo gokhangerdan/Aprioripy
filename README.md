@@ -1,0 +1,2 @@
+# Apriopy
+Apriori algorithm.
