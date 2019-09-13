@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="aprioripy",
-    version="0.0.1",
+    version="0.0.2",
     author="Gökhan Gerdan",
     author_email="gokhang1327@gmail.com",
     description="Apriori algorithm.",
