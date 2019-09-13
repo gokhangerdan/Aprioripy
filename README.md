@@ -1,4 +1,7 @@
-# Apriori algorithm usage:
+# Apriopy: Apriori algorithm.
+<img src="4742c1dc-c672-4194-96c3-54ee5b88a840.jpeg">
+
+## Apriori algorithm usage:
 
 ```python
 from apriopy import Apriopy
